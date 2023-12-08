@@ -13,7 +13,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | -------- | ------- | ------- |
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
-| Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
+| Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral 
 | Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
 | Freitag, 13.10. | Gewöhnliche DGL |
 
