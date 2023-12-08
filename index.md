@@ -55,16 +55,16 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
-  <summary>Video: Trägheitsmoment</summary>
+  <summary>Video: Linienintegral</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/MOI_4K.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/line_integration_F3.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
-  <summary>Video: Euler-Identität</summary>
+  <summary>Video: Trägheitsmoment</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/Euler_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/MOI_4K.mp4" loop="true"></video>
 	</div>
 </details>
 
