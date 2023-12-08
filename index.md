@@ -137,7 +137,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Doppelpendel mit Phasenraum </summary>
 	<div>
-		<video controls width="90%" src="index_media/double_pendulum_ps_scene.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/double_pendulum_ps1_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
