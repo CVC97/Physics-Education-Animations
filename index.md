@@ -27,6 +27,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
+  <summary>Video: Differenzquotient </summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/DQ_HD.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Taylor-Entwicklung </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
@@ -49,7 +56,6 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 ### *to-be-done*
 
-- *TBD: Differenzquotient*
 - *TBD: Einheitsvektoren und Polarkoordinaten*
 - *Darstellung sin als exp*
 - *TBD: Vektoraddition, -multiplikation*
