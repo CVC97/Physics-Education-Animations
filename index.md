@@ -6,7 +6,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 | Tag | Thema | Animation(en) |
 | -------- | -------: | -------: |
-| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung (coole Physikanimation zum Einstieg vllt.)
+| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitungsaimation (?)
 | Mittwoch, 04.10. | Polynome |
 | Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Differenzquotient, Taylor-Entwicklung
 | Freitag, 06.10. | Integralrechnung, Techniken | Riemannsumme
@@ -101,7 +101,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video + Audio (English): Harmonic Oscillator</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_ENG_F2.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_ENG_F3.mp4" loop="true"></video>
 	</div>
 </details>
 
