@@ -105,7 +105,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Schwingungssensor</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/OS_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/oscillation_sensor_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -130,7 +130,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Wärmeleitungsgleichung</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/heat_equation.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/heat_equation_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -149,6 +149,6 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Model für die Ausbreitung von Infektionskrankheiten</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/soi_animation_full_c_75_50_50_25_ext.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/cellular_automaton_scene.mp4" loop="true"></video>
 	</div>
 </details>
