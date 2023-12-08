@@ -116,7 +116,8 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 ### *to-be-done*
 
-- *Eye-Tracking: andere Darstellung*
+- *Eye-Tracking: andere Darstellung* (tbf)
+- *Perle auf rotierendem Drahtring*
 - *Zwangskraft: kleine Kugel rollt große herunter*
 
 ---
@@ -129,6 +130,14 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
   <summary>Video: Doppelpendel</summary>
 	<div>
 		<video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+<details>
+  <summary>Video: Doppelpendel mit Phasenraum </summary>
+	<div>
+		<video controls width="90%" src="index_media/double_pendulum_ps_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
