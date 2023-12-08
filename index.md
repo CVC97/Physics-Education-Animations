@@ -102,6 +102,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+<details>
+  <summary>Video: Schwingungssensor</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/OS_HD.mp4" loop="true"></video>
+	</div>
+</details>
+
 <!-- ## Wärmeleitungsgleichung -->
 ### Partielle Differentialgleichungen
 
