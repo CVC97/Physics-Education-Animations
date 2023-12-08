@@ -96,9 +96,9 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ### Gewöhnliche Differentialgleichungen
 
 <details>
-  <summary>Video: The Three Body Problem (3D)</summary>
+  <summary>Video: Gekoppelte Pendel</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/TBP_main_3D_30s.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/pendulums_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -108,6 +108,21 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 		<video autoplay data-autoplay width="90%" src="index_media/OS_HD.mp4" loop="true"></video>
 	</div>
 </details>
+
+<details>
+  <summary>Video: The Three Body Problem (2D)</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/three_body_problem_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: The Three Body Problem (3D)</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/TBP_main_3D_30s.mp4" loop="true"></video>
+	</div>
+</details>
+
 
 <!-- ## Wärmeleitungsgleichung -->
 ### Partielle Differentialgleichungen
@@ -125,7 +140,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: 1D-Wellengleichung</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/tsunami_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
