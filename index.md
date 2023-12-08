@@ -22,21 +22,21 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Differenzquotient </summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/DQ_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/differentiation_index.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
   <summary>Video: Riemannsumme </summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/Riemann_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/integration_index.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
   <summary>Video: Taylor-Entwicklung </summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/taylor_index.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -50,7 +50,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Polarkoordinaten (Einheitsvektoren und Flächenelements)</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/PUV_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/plane_polar_coordinates_index.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -71,7 +71,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Euler-Identität</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/Euler_HD.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/euler_identity_index.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -158,3 +158,5 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 		<video autoplay data-autoplay width="90%" src="index_media/cellular_automaton_scene.mp4" loop="true"></video>
 	</div>
 </details>
+
+<!-- <div>Logo erstellt mit <a href="https://www.designevo.com/de/" title="Kostenloser Online-Logo-Editor">DesignEvo</a></div> -->
