@@ -1,17 +1,5 @@
 # Animationen
 
-## Vorkurs
-
-Animationen zum Vorkurs.
-
-### Taylor-Entwicklung
-
-<div>
-	<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"><video>
-</div>
-
----
-
 ## Bonusmaterial: Numerische Lösungen physikalischer Probleme
 
 ### Wärmeleitungsgleichung
@@ -27,4 +15,16 @@ Animationen zum Vorkurs.
 
 <div>
 	<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"><video>
+</div>
+
+---
+
+## Vorkurs
+
+Animationen zum Vorkurs.
+
+### Taylor-Entwicklung
+
+<div>
+	<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"><video>
 </div>
