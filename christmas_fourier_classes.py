@@ -18,13 +18,13 @@ class IncomingSignal(Mobject):
         # number plane for the untransformed signal
         self.signal_npla = NumberPlane(
             x_range = [-1, 1, 0.1], y_range = [-height / 3.5 * 2.5, height, 1], x_length = 9.5/10*width, y_length = 9/10*height/2,
-            x_axis_config = {"stroke_opacity": 0.215}, y_axis_config = {"stroke_opacity": 0.125}, background_line_style = {"stroke_opacity": 0.125}
+            x_axis_config = {"stroke_opacity": 0.215, "stroke_color": main_color}, y_axis_config = {"stroke_opacity": 0.125, "stroke_color": main_color}, background_line_style = {"stroke_opacity": 0.125}
         ).move_to(position + np.array([0, height/4, 0]))
         self.add(self.signal_npla)
         # coordinate system for the FT signal
         self.ft_signal_npla = NumberPlane(
             x_range = [128, 512, 32], y_range = [-3, 6, 1], x_length = 9/10*width, y_length = 9/10*height/2,
-            x_axis_config = {"stroke_opacity": 0.215}, y_axis_config = {"stroke_opacity": 0.125}, background_line_style = {"stroke_opacity": 0.125}
+            x_axis_config = {"stroke_opacity": 0.215, "stroke_color": main_color}, y_axis_config = {"stroke_opacity": 0.125, "stroke_color": main_color}, background_line_style = {"stroke_opacity": 0.125}
         ).move_to(position - np.array([0, height/4, 0]))
         #self.add(self.ft_signal_npla)
         self.ft_signal_nl = NumberLine(
@@ -116,20 +116,16 @@ class FullSignal(Mobject):
         self.add(line)
         #self.add(self.full_signal_npla)
 
-    # gets baseline
-    def get_baseline(self):
-        return Line(start = np.array([-10, 0, 0]), end = np.array([10, 0, 0]), stroke_width = 2, stroke_color = main_color).move_to(self.full_signal_npla.c2p(0, 0, 0))
-
     # return the superposition of all three waves
-    def get_wave(self, omega_xyc):
+    def get_wave(self, omega_xyc, amplitude, wave_opacity):
         omega_x = omega_xyc[0]
         omega_y = omega_xyc[1]
         omega_c = omega_xyc[2]
         # superposition of the 3 waves
         correction_factor = 8
         def signal_wave(t):
-            return (np.cos(omega_x * t / correction_factor) + np.cos(omega_y * t / correction_factor) + np.cos(omega_c * t / correction_factor)) * np.exp(-PI*t**2)
-        return self.full_signal_npla.plot(signal_wave, x_range = [-1.5, 1.5], stroke_width = 2, stroke_color = main_color)
+            return amplitude * (np.cos(omega_x * t / correction_factor) + np.cos(omega_y * t / correction_factor) + np.cos(omega_c * t / correction_factor)) * np.exp(-PI*t**2)
+        return self.full_signal_npla.plot(signal_wave, x_range = [-1.5, 1.5], stroke_width = 2, stroke_color = main_color, stroke_opacity = wave_opacity)
     
 
 class SplitSignal(Mobject):
@@ -143,7 +139,7 @@ class SplitSignal(Mobject):
         # number plane for the individual sinal waves
         self.split_signal_npla = NumberPlane(
             x_range = [-1, 1, 0.1], y_range = [-1.25, 1.25, 1], x_length = 9.5/10*width, y_length = 9/10*height,
-            x_axis_config = {"stroke_opacity": 0.215}, y_axis_config = {"stroke_opacity": 0.125}, background_line_style = {"stroke_opacity": 0.125}
+            x_axis_config = {"stroke_opacity": 0.215, "stroke_color": main_color}, y_axis_config = {"stroke_opacity": 0.125, "stroke_color": main_color}, background_line_style = {"stroke_opacity": 0.125}
         ).move_to(position)
         self.add(self.split_signal_npla)
 
