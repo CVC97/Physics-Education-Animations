@@ -15,7 +15,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral 
 | Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
-| Freitag, 13.10. | Gewöhnliche DGL |
+| Freitag, 13.10. | Gewöhnliche DGL | DEQ: Harmonic Oscillator
 
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
@@ -75,12 +75,18 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+<details>
+  <summary>Video + Audio (English): Harmonic Oscillator</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_F1.mp4" loop="true"></video>
+	</div>
+</details>
+
 
 ### *to-be-done*
 
 - *TBD: Vektoraddition, -multiplikation*
 - *Felder mit Beispielen*
-- *Pendel und Kräfte (DGL)*
 
 ---
 
