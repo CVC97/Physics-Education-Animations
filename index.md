@@ -6,7 +6,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 | Tag | Thema | Animation(en) |
 | -------- | -------: | -------: |
-| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung (coole Physikanimation zum Einstieg)
+| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung (coole Physikanimation zum Einstieg vllt.)
 | Mittwoch, 04.10. | Polynome |
 | Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Differenzquotient, Taylor-Entwicklung
 | Freitag, 06.10. | Integralrechnung, Techniken | Riemannsumme
@@ -14,7 +14,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
-| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen |
+| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | Euler-Identität
 | Freitag, 13.10. | Gewöhnliche DGL |
 
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
@@ -61,25 +61,29 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+<details>
+  <summary>Video: Euler-Identität</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/Euler_HD.mp4" loop="true"></video>
+	</div>
+</details>
+
+
 ### *to-be-done*
 
-- *Darstellung sin als exp*
 - *TBD: Vektoraddition, -multiplikation*
 - *Pendel und Kräfte (DGL)*
-- *1000 gekoppelte Pendel (Chaos-Flex)*
+
+---
+
+# Theoretische Physik
+
+- *Doppelpendel (Lagrange-Mechanik)*
 - *Zwangskraft: kleine Kugel rollt große herunter*
 
----
+--- 
 
-<!-- # Rechenmethoden der Physik
-
----
-
-# Experimentalphysik I
-
---- -->
-
-# Bonusmaterial: Numerische Lösungen physikalischer Probleme
+# Wissenschaftliches Rechnen
 
 ### Gewöhnliche Differentialgleichungen
 
