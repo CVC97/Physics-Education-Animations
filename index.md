@@ -41,7 +41,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
-  <summary>Video: Taylor-Entwicklung </summary>
+  <summary>Video: Partielle Ableitungen </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/partial_F2.mp4" loop="true"></video>
 	</div>
