@@ -2,11 +2,16 @@
 
 ## Vorkurs
 
-Animationen zum Vorkurs.
+Animationen zum Vorkurs "Mathematische Methoden der Physik".
 
 ### Taylor-Entwicklung
 
-<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
+<details>
+  <summary>Video: Taylor-Entwicklung</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
+	</div>
+</details>
 
 ---
 
@@ -14,13 +19,19 @@ Animationen zum Vorkurs.
 
 ### Wärmeleitungsgleichung
 
-
-<video autoplay data-autoplay width="90%" src="index_media/heat_equation.mp4" loop="true"></video>
-
-
----
+<details>
+  <summary>Video: Taylor-Entwicklung</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/heat_equation.mp4" loop="true"></video>
+	</div>
+</details>
 
 
 ### 1D Wellengleichung
 
-<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"></video>
+<details>
+  <summary>Video: Taylor-Entwicklung</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"></video>
+	</div>
+</details>
