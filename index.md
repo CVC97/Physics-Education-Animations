@@ -1,8 +1,8 @@
-Frontpage einiger Animationen des Repositories zu verschiedenen Themen. Videos standardmäßig in Dauerschleife mit Autoplay.
+Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 # Vorkurs "Mathematische Methoden der Physik"
 
-Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
+<!-- Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
 
 | Tag | Thema | Animation(en) |
 | -------- | -------: | -------: |
@@ -15,7 +15,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten, Parametrisierung
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral 
 | Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
-| Freitag, 13.10. | Gewöhnliche DGL | DEQ: Harmonic Oscillator
+| Freitag, 13.10. | Gewöhnliche DGL | DEQ: Harmonic Oscillator -->
 
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
