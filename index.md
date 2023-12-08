@@ -6,7 +6,7 @@ Animationen zum Vorkurs.
 
 ### Taylor-Entwicklung
 
-**PLADZHALTER**
+<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
 
 ---
 
@@ -15,7 +15,7 @@ Animationen zum Vorkurs.
 ### Wärmeleitungsgleichung
 
 
-<video autoplay data-autoplay width="90%" src="index_media/heat_equation.mp4" loop="true"><video>
+<video autoplay data-autoplay width="90%" src="index_media/heat_equation.mp4" loop="true"></video>
 
 
 ---
@@ -23,10 +23,4 @@ Animationen zum Vorkurs.
 
 ### 1D Wellengleichung
 
-<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"><video>
-
----
-
----
-
-<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"><video>
+<video autoplay data-autoplay width="90%" src="index_media/tsunami3.mp4" loop="true"></video>
