@@ -20,7 +20,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
-  <summary>Video: Taylor-Entwicklung</summary>
+  <summary>Video: Taylor-Entwicklung (Entwurf) </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
 	</div>
@@ -51,6 +51,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 --- -->
 
 # Bonusmaterial: Numerische Lösungen physikalischer Probleme
+
+<details>
+  <summary>Video: The Three Body Problem (3D)</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/TBP_main_3D_30s.mp4" loop="true"></video>
+	</div>
+</details>
 
 <!-- ## Wärmeleitungsgleichung -->
 
