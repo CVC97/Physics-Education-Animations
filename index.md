@@ -51,7 +51,12 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 - *TBD: Differenzquotient*
 - *TBD: Einheitsvektoren und Polarkoordinaten*
+- *Darstellung sin als exp*
 - *TBD: Vektoraddition, -multiplikation*
+- *Pendel und Kräfte (einfache DGL)*
+- *1000 gekoppelte Pendel (Chaos-Flex)*
+- *(gedämpfte) Schwingungen*
+- *Zwangskraft: kleine Kugel rollt große herunter*
 
 ---
 
