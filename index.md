@@ -17,7 +17,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 | Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
 | Freitag, 13.10. | Gewöhnliche DGL | DEQ: Harmonic Oscillator -->
 
-# Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
+# Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
   <summary>Video: Differenzquotient </summary>
