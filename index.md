@@ -14,7 +14,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
-| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | Euler-Identität
+| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
 | Freitag, 13.10. | Gewöhnliche DGL |
 
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
@@ -55,9 +55,16 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
-  <summary>Video: Linienintegral</summary>
+  <summary>Video: Trägheitsmoment</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/line_integration_F3.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/MOI_4K.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Euler-Identität</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/Euler_HD.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -72,6 +79,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ### *to-be-done*
 
 - *TBD: Vektoraddition, -multiplikation*
+- *Felder mit Beispielen*
 - *Pendel und Kräfte (DGL)*
 
 ---
