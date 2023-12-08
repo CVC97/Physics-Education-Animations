@@ -6,13 +6,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 | Tag | Thema | Animation |
 | -------- | -------: | -------: |
-| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung
+| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung (coole Physikanimation zum Einstieg)
 | Mittwoch, 04.10. | Polynome |
 | Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Differenzquotient, Taylor-Entwicklung
-| Freitag, 06.10. | Integralrechnung, Techniken | (Riemannsumme)
+| Freitag, 06.10. | Integralrechnung, Techniken | Riemannsumme
 | -------- | ------- | ------- |
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
-| Dienstag, 10.10. | Koordinatensysteme | (Trajektorie)
+| Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
 | Donenerstag, 12.10. | Oberflächen, Volumenintegrale / komplexe Zahlen |
 | Freitag, 13.10. | Gewöhnliche DGL |
@@ -44,6 +44,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
   <summary>Video: Trajektorie in kartesichen- und Polarkoordinaten</summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/trajectory_HD60.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Polarkoordinaten (Einheitsvektoren und Flächenelements)</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/PUV_HD.mp4" loop="true"></video>
 	</div>
 </details>
 
