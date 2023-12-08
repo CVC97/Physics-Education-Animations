@@ -6,7 +6,7 @@ Animationen zum Vorkurs.
 
 ### Taylor-Entwicklung
 
-**PLATZHALTER**
+**PLADZHALTER**
 
 ---
 
@@ -29,55 +29,8 @@ Animationen zum Vorkurs.
 
 ---
 
-Space
+<p> Absatz </p>
 
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
-
-Space
 ---
 
 <div>
