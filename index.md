@@ -1,10 +1,10 @@
-Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
+Frontpage einiger Animationen des Repositories zu verschiedenen Themen. Videos standardmäßig in Dauerschleife mit Autoplay.
 
 # Vorkurs "Mathematische Methoden der Physik"
 
 Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
 
-| Tag | Thema | Animation |
+| Tag | Thema | Animation(en) |
 | -------- | -------: | -------: |
 | Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitung: Modellierung (coole Physikanimation zum Einstieg)
 | Mittwoch, 04.10. | Polynome |
@@ -14,7 +14,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
-| Donenerstag, 12.10. | Oberflächen, Volumenintegrale / komplexe Zahlen |
+| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen |
 | Freitag, 13.10. | Gewöhnliche DGL |
 
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
@@ -63,11 +63,9 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 ### *to-be-done*
 
-- *TBD: Einheitsvektoren und Polarkoordinaten*
 - *Darstellung sin als exp*
 - *TBD: Vektoraddition, -multiplikation*
-- *Pendel und Kräfte (einfache DGL)*
-- *(gedämpfte) Schwingungen*
+- *Pendel und Kräfte (DGL)*
 - *1000 gekoppelte Pendel (Chaos-Flex)*
 - *Zwangskraft: kleine Kugel rollt große herunter*
 
@@ -119,4 +117,4 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/soi_animation_full_c_75_50_50_25_ext.mp4" loop="true"></video>
 	</div>
-</details> -->
+</details>
