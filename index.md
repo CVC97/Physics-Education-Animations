@@ -141,6 +141,14 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+
+<details>
+  <summary>Video: Sphärisches Pendel variabler Länge mit Phasenraum </summary>
+	<div>
+		<video controls width="90%" src="index_media/spherical_pendulum_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
 --- 
 
 # Wissenschaftliches Rechnen
