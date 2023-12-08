@@ -9,7 +9,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher |
 | Mittwoch, 04.10. | Polynome |
 | Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Taylor-Entwicklung
-| Freitag, 06.10. | Integralrechnung, Techniken |
+| Freitag, 06.10. | Integralrechnung, Techniken | (Riemannsumme)
 | -------- | ------- | ------- |
 | Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie)
@@ -20,14 +20,14 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
-  <summary>Video: Riemannsumme (Entwurf) </summary>
+  <summary>Video: Riemannsumme </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/Riemann_HD.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
-  <summary>Video: Taylor-Entwicklung (Entwurf) </summary>
+  <summary>Video: Taylor-Entwicklung </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
 	</div>
