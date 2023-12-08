@@ -76,6 +76,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
+  <summary>Video + Audio (English): Parametrization of a curve in 3D</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/parametrization_F1.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video + Audio (English): Harmonic Oscillator</summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_F2.mp4" loop="true"></video>
@@ -83,14 +90,11 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 
+
 ### *to-be-done*
 
-- *Wegparametrisierung (Spirale)*
 - *Partielle Ableitung skalarer Funktion*
 - *Eye-Tracking: andere Darstellung*
-
-- *TBD: Vektoraddition, -multiplikation*
-- *Felder mit Beispielen*
 
 ---
 
