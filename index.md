@@ -78,7 +78,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video + Audio (English): Harmonic Oscillator</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_F1.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_F2.mp4" loop="true"></video>
 	</div>
 </details>
 
