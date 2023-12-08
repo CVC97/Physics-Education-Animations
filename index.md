@@ -45,6 +45,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 - *TBD: Differenzquotient*
 - *TBD: Riemann-Summe*
 - *TBD: Einheitsvektoren und Polarkoordinaten*
+- *TBD: Vektoraddition, -multiplikation*
 
 ---
 
