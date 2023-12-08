@@ -43,7 +43,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 <details>
   <summary>Video: Taylor-Entwicklung </summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/partial_F1.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/partial_F2.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -117,7 +117,6 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ### *to-be-done*
 
 - *Eye-Tracking: andere Darstellung*
-
 - *Zwangskraft: kleine Kugel rollt große herunter*
 
 ---
