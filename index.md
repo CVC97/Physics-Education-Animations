@@ -55,6 +55,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 </details>
 
 <details>
+  <summary>Video: Parametrisierung</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_GER.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Linienintegral</summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/line_integration_F3.mp4" loop="true"></video>
@@ -75,19 +82,26 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+<details>
+  <summary>Video: Harmonischer Oszillator</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_GER.mp4" loop="true"></video>
+	</div>
+</details>
+
 ---
 
 <details>
   <summary>Video + Audio (English): Parametrization of a curve in 3D</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/parametrization_F1.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/parametrization_ENG_F1.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
   <summary>Video + Audio (English): Harmonic Oscillator</summary>
 	<div>
-		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_F2.mp4" loop="true"></video>
+		<video autoplay data-autoplay width="90%" src="index_media/harmonic_oscillator_ENG_F2.mp4" loop="true"></video>
 	</div>
 </details>
 
