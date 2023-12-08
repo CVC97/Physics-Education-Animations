@@ -1,8 +1,23 @@
-# Vorkurs
+Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
-Animationen zum Vorkurs "Mathematische Methoden der Physik".
+# Vorkurs "Mathematische Methoden der Physik"
 
-## Taylor-Entwicklung
+Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
+
+| Tag | Thema | Animation |
+| -------- | -------: | -------: |
+| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher |
+| Mittwoch, 04.10. | Polynome |
+| Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Taylor-Entwicklung
+| Freitag, 06.10. | Integralrechnung, Techniken |
+| -------- | ------- | ------- |
+| Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
+| Dienstag, 10.10. | Koordinatensysteme | (Trajektorie)
+| Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral |
+| Donenerstag, 12.10. | Oberflächen, Volumenintegrale |
+| Freitag, 13.10. | Gewöhnliche Differential-Gleichungen |
+
+## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
   <summary>Video: Taylor-Entwicklung</summary>
@@ -11,11 +26,33 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik".
 	</div>
 </details>
 
+<details>
+  <summary>Video: Trajektorie in kartesichen- und Polarkoordinaten</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/trajectory_HD60.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Linienintegral</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/line_integration_F3.mp4" loop="true"></video>
+	</div>
+</details>
+
 ---
+
+<!-- # Rechenmethoden der Physik
+
+---
+
+# Experimentalphysik I
+
+--- -->
 
 # Bonusmaterial: Numerische Lösungen physikalischer Probleme
 
-## Wärmeleitungsgleichung
+<!-- ## Wärmeleitungsgleichung -->
 
 <details>
   <summary>Video: Wärmeleitungsgleichung</summary>
@@ -25,7 +62,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik".
 </details>
 
 
-## 1D Wellengleichung
+<!-- ## 1D Wellengleichung -->
 
 <details>
   <summary>Video: 1D-Wellengleichung</summary>
