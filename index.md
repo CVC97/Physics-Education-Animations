@@ -20,6 +20,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ## Animationen zu Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
+  <summary>Video: Riemannsumme (Entwurf) </summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/Riemann_HD.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Taylor-Entwicklung (Entwurf) </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/taylor_HD.mp4" loop="true"></video>
@@ -43,7 +50,6 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 ### *to-be-done*
 
 - *TBD: Differenzquotient*
-- *TBD: Riemann-Summe*
 - *TBD: Einheitsvektoren und Polarkoordinaten*
 - *TBD: Vektoraddition, -multiplikation*
 
