@@ -92,7 +92,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 <details>
   <summary>Video: Harmonischer Oszillator</summary>
 	<div>
-		<video controls width="90%" src="index_media/harmonic_oscillator_GER.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/harmonic_oscillator_GER_short.mp4" loop="true"></video>
 	</div>
 </details>
 
