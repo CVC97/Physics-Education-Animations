@@ -11,7 +11,7 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 | Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Differenzquotient, Taylor-Entwicklung
 | Freitag, 06.10. | Integralrechnung, Techniken | Riemannsumme
 | -------- | ------- | ------- |
-| Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher |
+| Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher | Partielle Ableitungen
 | Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten, Parametrisierung
 | Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral 
 | Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
@@ -37,6 +37,13 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
   <summary>Video: Taylor-Entwicklung </summary>
 	<div>
 		<video autoplay data-autoplay width="90%" src="index_media/taylor_index.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Taylor-Entwicklung </summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/partial_F1.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -109,7 +116,6 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 ### *to-be-done*
 
-- *Partielle Ableitung skalarer Funktion*
 - *Eye-Tracking: andere Darstellung*
 
 - *Zwangskraft: kleine Kugel rollt große herunter*
