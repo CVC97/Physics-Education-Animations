@@ -75,6 +75,8 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 	</div>
 </details>
 
+---
+
 <details>
   <summary>Video + Audio (English): Parametrization of a curve in 3D</summary>
 	<div>
@@ -96,12 +98,20 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 - *Partielle Ableitung skalarer Funktion*
 - *Eye-Tracking: andere Darstellung*
 
+- *Zwangskraft: kleine Kugel rollt große herunter*
+
 ---
 
 # Theoretische Physik
 
-- *Doppelpendel (Lagrange-Mechanik)*
-- *Zwangskraft: kleine Kugel rollt große herunter*
+### Klassische Mechanik
+
+<details>
+  <summary>Video: Doppelpendel</summary>
+	<div>
+		<video autoplay data-autoplay width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video>
+	</div>
+</details>
 
 --- 
 
