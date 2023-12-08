@@ -85,6 +85,8 @@ Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Them
 
 ### *to-be-done*
 
+- *Wegparametrisierung (Spirale)*
+- *Partielle Ableitung skalarer Funktion*
 - *TBD: Vektoraddition, -multiplikation*
 - *Felder mit Beispielen*
 
