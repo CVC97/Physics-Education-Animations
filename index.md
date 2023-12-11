@@ -122,6 +122,18 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 ---
 
+# Lehranimationen
+
+<details>
+  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
+	<div>
+		<!-- <video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video> -->
+	</div>
+</details>
+
+
+---
+
 # Theoretische Physik
 
 ### Klassische Mechanik
