@@ -2,7 +2,7 @@ from manim import *
 
 
 # main color of the animation (opposite of the background color)
-main_color = WHITE
+main_color = BLACK
 
 
 # class creating a box displaying signal in real and fourier space
@@ -89,8 +89,9 @@ class FTransformedImage(Mobject):
         nl_node_dist = self.x_ax.n2p(1)[0] - self.x_ax.n2p(0)[0]
         node_position = np.array([self.x_ax.n2p(omega_x)[0] + self.grid_node_dist/2, self.y_ax.n2p(omega_y)[1] + self.grid_node_dist/2, 0])
         white_square = Square(side_length = nl_node_dist, color = WHITE, stroke_width = 0.1, stroke_opacity = 0, fill_opacity = omega_c / 128).move_to(node_position)
-        #black_square = Square(side_length = nl_node_dist, color = BLACK, stroke_width = 0.1, stroke_opacity = 0, fill_opacity = (128 - omega_c) / 128).move_to(node_position)
-        return white_square
+        black_square = Square(side_length = nl_node_dist, color = BLACK, stroke_width = 0.1, stroke_opacity = 0, fill_opacity = (128 - omega_c) / 128).move_to(node_position)
+        # white square for dark BG, black square for light BG 
+        return black_square
 
     # creates an object pointing towards the frequency tupel
     def get_pixel_arm(self, omega_xyc):
