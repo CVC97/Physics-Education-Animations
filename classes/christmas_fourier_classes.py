@@ -3,6 +3,9 @@ from manim import *
 
 # main color of the animation (opposite of the background color)
 main_color = BLACK
+red_color = PURE_RED
+blue_color = PURE_BLUE
+grey_color = DARK_GREY
 
 
 # class creating a box displaying signal in real and fourier space
@@ -54,9 +57,9 @@ class IncomingSignal(Mobject):
                 return 4*(np.exp(-(omega-omega_0)**2/(4*PI)) + np.exp(-(omega+omega_0)**2/(4*PI)))
             return get_ft_signal_wave(omega_x) + get_ft_signal_wave(omega_y) + get_ft_signal_wave(omega_c)
         # frequencies determined by fourier analysis
-        omega_xplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [128, 256], stroke_width = 2, color = RED)
-        omega_yplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [256, 384], stroke_width = 2, color = BLUE)
-        omega_cplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [384, 512], stroke_width = 2, color = GREY)
+        omega_xplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [128, 256], stroke_width = 2, color = red_color)
+        omega_yplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [256, 384], stroke_width = 2, color = blue_color)
+        omega_cplot = self.ft_signal_npla.plot(ft_signal_wave, x_range = [384, 512], stroke_width = 2, color = grey_color)
         return VGroup(omega_xplot, omega_yplot, omega_cplot)
     
 
@@ -71,11 +74,11 @@ class FTransformedImage(Mobject):
         # x-axis
         self.x_ax = NumberLine(
             x_range = [128, 256, 16], length = self.grid_sidelength, include_numbers = True, font_size = 16
-            ).set_color(RED).move_to(position - np.array([0, self.grid_sidelength/2+0.5, 0]))
+            ).set_color(PURE_RED).move_to(position - np.array([0, self.grid_sidelength/2+0.5, 0]))
         # y-axis
         self.y_ax = NumberLine(
             x_range = [256, 384, 16], length = self.grid_sidelength, include_numbers = True, font_size = 16, rotation = PI/2, label_direction = LEFT
-            ).set_color(BLUE).move_to(position - np.array([self.grid_sidelength/2+0.5, 0, 0]))
+            ).set_color(PURE_BLUE).move_to(position - np.array([self.grid_sidelength/2+0.5, 0, 0]))
         # square with text
         square = Square(side_length = self.grid_sidelength, stroke_width = 2, stroke_color = main_color, **kwargs).move_to(np.array([self.x_ax.n2p(192)[0], self.y_ax.n2p(320)[1], 0]))
         square_text_head = Tex(r"Originales Bild", font_size = 32, color = main_color).next_to(square, 0.5*UP)

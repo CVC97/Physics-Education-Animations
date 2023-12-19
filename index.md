@@ -127,7 +127,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 <details>
   <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
 	<div>
-		<!-- <video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video> -->
+		<!-- <video controls width="90%" src="index_media/standing_wave_HoG_BLACK.mp4" loop="true"></video> -->
 	</div>
 </details>
 
