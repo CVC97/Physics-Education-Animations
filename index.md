@@ -125,9 +125,17 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 # Lehranimationen
 
 <details>
-  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
+  <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
 	<div>
 		<!-- <video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video> -->
+	</div>
+</details>
+
+
+<details>
+  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
+	<div>
+		<!-- <video controls width="90%" src="index_media/snow_leopard_2x_cut.mp4" loop="true"></video> -->
 	</div>
 </details>
 
