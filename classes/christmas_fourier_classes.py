@@ -2,10 +2,15 @@ from manim import *
 
 
 # main color of the animation (opposite of the background color)
-main_color = BLACK
-red_color = PURE_RED
-blue_color = PURE_BLUE
-grey_color = DARK_GREY
+# main_color = BLACK
+# red_color = PURE_RED
+# blue_color = PURE_BLUE
+# grey_color = DARK_GREY
+
+main_color = WHITE
+red_color = RED
+blue_color = BLUE
+grey_color = GREY
 
 
 # class creating a box displaying signal in real and fourier space
@@ -74,11 +79,11 @@ class FTransformedImage(Mobject):
         # x-axis
         self.x_ax = NumberLine(
             x_range = [128, 256, 16], length = self.grid_sidelength, include_numbers = True, font_size = 16
-            ).set_color(PURE_RED).move_to(position - np.array([0, self.grid_sidelength/2+0.5, 0]))
+            ).set_color(red_color).move_to(position - np.array([0, self.grid_sidelength/2+0.5, 0]))
         # y-axis
         self.y_ax = NumberLine(
             x_range = [256, 384, 16], length = self.grid_sidelength, include_numbers = True, font_size = 16, rotation = PI/2, label_direction = LEFT
-            ).set_color(PURE_BLUE).move_to(position - np.array([self.grid_sidelength/2+0.5, 0, 0]))
+            ).set_color(blue_color).move_to(position - np.array([self.grid_sidelength/2+0.5, 0, 0]))
         # square with text
         square = Square(side_length = self.grid_sidelength, stroke_width = 2, stroke_color = main_color, **kwargs).move_to(np.array([self.x_ax.n2p(192)[0], self.y_ax.n2p(320)[1], 0]))
         square_text_head = Tex(r"Originales Bild", font_size = 32, color = main_color).next_to(square, 0.5*UP)
@@ -93,8 +98,11 @@ class FTransformedImage(Mobject):
         node_position = np.array([self.x_ax.n2p(omega_x)[0] + self.grid_node_dist/2, self.y_ax.n2p(omega_y)[1] + self.grid_node_dist/2, 0])
         white_square = Square(side_length = nl_node_dist, color = WHITE, stroke_width = 0.1, stroke_opacity = 0, fill_opacity = omega_c / 128).move_to(node_position)
         black_square = Square(side_length = nl_node_dist, color = BLACK, stroke_width = 0.1, stroke_opacity = 0, fill_opacity = (128 - omega_c) / 128).move_to(node_position)
-        # white square for dark BG, black square for light BG 
-        return black_square
+        # white square for dark BG, black square for light BG
+        if (main_color == BLACK):
+            return black_square
+        else:
+            return white_square
 
     # creates an object pointing towards the frequency tupel
     def get_pixel_arm(self, omega_xyc):
