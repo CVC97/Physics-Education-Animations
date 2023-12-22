@@ -140,7 +140,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 <details>
   <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
 	<div>
-		<video controls width="90%" src="index_media/snow_leopard_2x_cut.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/snow_leopard_CVC_2x_cut.mp4" loop="true"></video>
 	</div>
 </details>
 
