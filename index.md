@@ -213,7 +213,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 
 <!-- ## Wärmeleitungsgleichung -->
-### Partielle Differentialgleichungen
+### Partial Differential Equations
 
 <details>
   <summary>Video: 1D-Heat-Equation</summary>
@@ -232,7 +232,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 	</div>
 </details>
 
-### Stochastische Verfahren
+### Stochastic Methods
 
 <details>
   <summary>Video: Model for the Spread of Infectious Diseases</summary>
