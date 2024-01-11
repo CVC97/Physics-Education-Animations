@@ -1,5 +1,27 @@
 Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
+---
+
+<!-- # Other -->
+
+<details>
+  <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
+	<div>
+		<video controls width="90%" src="index_media/standing_wave_HoG_BLACK.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+<details>
+  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
+	<div>
+		<video controls width="90%" src="index_media/snow_leopard_CVC_2x_cut.mp4" loop="true"></video>
+	</div>
+</details>
+
+---
+
+
 <!-- # Vorkurs "Mathematische Methoden der Physik" -->
 
 <!-- Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
@@ -113,46 +135,27 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 </details>
 
 
-<!-- ---
+---
 
-# Experimentalphysik II -->
+# Experimentalphysik II
 
-
+---
 
 ### *to-be-done*
 
 - *Eye-Tracking: andere Darstellung* (tbf)
+- *Eye_tracking 3: Cornea-Reflex-Methode*
 - *Perle auf rotierendem Drahtring*
 - *Zwangskraft: kleine Kugel rollt große herunter*
 
 ---
 
-<!-- # Other -->
+# Theoretical Physics
+
+### Classical Mechanics
 
 <details>
-  <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
-	<div>
-		<video controls width="90%" src="index_media/standing_wave_HoG_BLACK.mp4" loop="true"></video>
-	</div>
-</details>
-
-
-<details>
-  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
-	<div>
-		<video controls width="90%" src="index_media/snow_leopard_CVC_2x_cut.mp4" loop="true"></video>
-	</div>
-</details>
-
-
----
-
-# Theoretische Physik
-
-### Klassische Mechanik
-
-<details>
-  <summary>Video: Doppelpendel</summary>
+  <summary>Video: Double Pendulum - numerical vs. analytical solution via small-angle-approximation</summary>
 	<div>
 		<video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video>
 	</div>
@@ -160,7 +163,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 
 <details>
-  <summary>Video: Doppelpendel mit Phasenraum </summary>
+  <summary>Video: Double Pendulum including phase space </summary>
 	<div>
 		<video controls width="90%" src="index_media/double_pendulum_ps1_scene.mp4" loop="true"></video>
 	</div>
@@ -168,7 +171,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 
 <details>
-  <summary>Video: Sphärisches Pendel variabler Länge mit Phasenraum </summary>
+  <summary>Video: Spherical Pendulum of variable length with most dubious phase space ever created </summary>
 	<div>
 		<video controls width="90%" src="index_media/spherical_pendulum_scene.mp4" loop="true"></video>
 	</div>
@@ -176,19 +179,19 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 --- 
 
-# Wissenschaftliches Rechnen
+# Scientific Computing
 
-### Gewöhnliche Differentialgleichungen
+### Ordinary Differential Equations
 
 <details>
-  <summary>Video: Gekoppelte Pendel</summary>
+  <summary>Video: Coupled Pendulums</summary>
 	<div>
 		<video controls width="90%" src="index_media/pendulums_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
 <details>
-  <summary>Video: Schwingungssensor</summary>
+  <summary>Video: Oscillation Sensor</summary>
 	<div>
 		<video controls width="90%" src="index_media/oscillation_sensor_scene.mp4" loop="true"></video>
 	</div>
@@ -213,7 +216,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 ### Partielle Differentialgleichungen
 
 <details>
-  <summary>Video: Wärmeleitungsgleichung</summary>
+  <summary>Video: 1D-Heat-Equation</summary>
 	<div>
 		<video controls width="90%" src="index_media/heat_equation_scene.mp4" loop="true"></video>
 	</div>
@@ -223,7 +226,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 <!-- ## 1D Wellengleichung -->
 
 <details>
-  <summary>Video: 1D-Wellengleichung</summary>
+  <summary>Video: 1D-Wave-Equation</summary>
 	<div>
 		<video controls width="90%" src="index_media/tsunami_scene.mp4" loop="true"></video>
 	</div>
@@ -232,7 +235,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 ### Stochastische Verfahren
 
 <details>
-  <summary>Video: Model für die Ausbreitung von Infektionskrankheiten</summary>
+  <summary>Video: Model for the Spread of Infectious Diseases</summary>
 	<div>
 		<video controls width="90%" src="index_media/cellular_automaton_scene.mp4" loop="true"></video>
 	</div>
