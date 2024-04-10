@@ -142,7 +142,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 <details>
   <summary>Preview: 1. Maxwell-Equation</summary>
 	<div>
-		<video controls width="90%" src="index_media/gauss_law_preview.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/gauss_law_F1.mp4" loop="true"></video>
 	</div>
 </details>
 
