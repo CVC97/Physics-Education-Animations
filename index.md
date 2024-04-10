@@ -139,14 +139,20 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 # Experimentalphysik II
 
+<details>
+  <summary>Preview: 1. Maxwell-Equation</summary>
+	<div>
+		<video controls width="90%" src="index_media/gauss_law_preview.mp4" loop="true"></video>
+	</div>
+</details>
+
 ---
 
 ### *to-be-done*
 
-- *Eye-Tracking: andere Darstellung* (tbf)
-- *Eye_tracking 3: Cornea-Reflex-Methode*
 - *Perle auf rotierendem Drahtring*
 - *Zwangskraft: kleine Kugel rollt große herunter*
+- *QM Animations for CWR*
 
 ---
 
