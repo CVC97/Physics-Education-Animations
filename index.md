@@ -162,6 +162,9 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 - *Zwangskraft: kleine Kugel rollt große herunter*
 - *QM Animations for CWR*
 
+- *Hertzscher Dipol*
+- *Maxwell-Verschiebungsstrom*
+
 ---
 
 # Theoretical Physics
