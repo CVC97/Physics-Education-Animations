@@ -27,6 +27,14 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 	</div>
 </details>
 
+
+<details>
+  <summary>Video: Bewegungsgleichung einer Katze im Potential eines Menschen</summary>
+	<div>
+		<video controls width="90%" src="index_media/cat_behaviour_QH.mp4" loop="true"></video>
+	</div>
+</details>
+
 ---
 
 
@@ -148,9 +156,16 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 # Experimentalphysik II
 
 <details>
-  <summary>Preview: 1. Maxwell-Equation</summary>
+  <summary>Video: 1. Maxwell-Equation</summary>
 	<div>
 		<video controls width="90%" src="index_media/gauss_law_F1.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: 1. Maxwell-Equation</summary>
+	<div>
+		<video controls width="90%" src="index_media/dipole_radiation_length_func.mp4" loop="true"></video>
 	</div>
 </details>
 
