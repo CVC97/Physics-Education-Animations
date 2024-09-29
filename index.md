@@ -163,7 +163,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 </details>
 
 <details>
-  <summary>Video: 1. Maxwell-Equation</summary>
+  <summary>Video: Dipole Radiation (analytical Solution)</summary>
 	<div>
 		<video controls width="90%" src="index_media/dipole_radiation_length_func.mp4" loop="true"></video>
 	</div>
@@ -177,7 +177,6 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 - *Zwangskraft: kleine Kugel rollt große herunter*
 - *QM Animations for CWR*
 
-- *Hertzscher Dipol*
 - *Maxwell-Verschiebungsstrom*
 
 ---
