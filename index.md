@@ -21,6 +21,14 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 
 
 <details>
+  <summary>Video: Trapped Ion Mobility Spectrometry</summary>
+	<div>
+		<video controls width="90%" src="index_media/TIMS.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+<details>
   <summary>Video: Luftmasse unter Einfluss von Druckgradient und Corioliskraft</summary>
 	<div>
 		<video controls width="90%" src="index_media/coriolis_air_F2.mp4" loop="true"></video>
@@ -163,7 +171,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 </details>
 
 <details>
-  <summary>Video: Dipole Radiation (analytical Solution)</summary>
+  <summary>Video: Dipole Radiation (analytical solution)</summary>
 	<div>
 		<video controls width="90%" src="index_media/dipole_radiation_length_func.mp4" loop="true"></video>
 	</div>
@@ -178,6 +186,7 @@ Frontpage einiger Animationen des Repositories zu verschiedenen Themen.
 - *QM Animations for CWR*
 
 - *Maxwell-Verschiebungsstrom*
+- *Nebelkammer*
 
 ---
 
