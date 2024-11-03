@@ -43,6 +43,15 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 	</div>
 </details>
 
+
+<details>
+  <summary>Video: Brownian Motion of three Particles with real-time Calculation of the Boltzmann constant</summary>
+	<div>
+		<video controls width="90%" src="index_media/Brownian_Motion.mp4" loop="true"></video>
+	</div>
+</details>
+
+
 ---
 
 
