@@ -52,6 +52,14 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 </details>
 
 
+<details>
+  <summary>Video: Brownian Motion of three Particles in a Confining Potential with plotted MSD</summary>
+	<div>
+		<video controls width="90%" src="index_media/Brownian_Motion_Potential.mp4" loop="true"></video>
+	</div>
+</details>
+
+
 ---
 
 
