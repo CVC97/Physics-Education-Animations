@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="index_media/SnowLeopard_icon_trans.ico" />
+<link rel="icon" href="index_media/SnowLeopard_icon_trans.ico" />
 
 
 Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physics-Education-Animations) zu verschiedenen Themen.
