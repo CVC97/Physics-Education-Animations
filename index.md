@@ -301,4 +301,11 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 	</div>
 </details>
 
+<details>
+  <summary>Video: Self-Avoiding Random Walk as a simple Protein Model</summary>
+	<div>
+		<video controls width="90%" src="index_media/self_avoiding_random_walk_low_energy" loop="true"></video>
+	</div>
+</details>
+
 <!-- <div>Logo erstellt mit <a href="https://www.designevo.com/de/" title="Kostenloser Online-Logo-Editor">DesignEvo</a></div> -->
