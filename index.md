@@ -304,7 +304,7 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 <details>
   <summary>Video: Self-Avoiding Random Walk as a simple Protein Model</summary>
 	<div>
-		<video controls width="90%" src="index_media/self_avoiding_random_walk_low_energy" loop="true"></video>
+		<video controls width="90%" src="index_media/self_avoiding_random_walk_low_energy_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
