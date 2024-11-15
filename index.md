@@ -1,11 +1,10 @@
 <link rel="icon" href="index_media/SnowLeopard_icon_trans.ico" />
 
 
-Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physics-Education-Animations) zu verschiedenen Themen.
+Frontpage of some of ``manim`` animations  across several topics, mostly for educational purposes.
 
 ---
 
-<!-- # Other -->
 
 <details>
   <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
@@ -65,25 +64,14 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 
 ---
 
+# Education Animations
 
-<!-- # Vorkurs "Mathematische Methoden der Physik" -->
+The main content of this frontpage are the ``manim`` animations for educational purposes. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school and university.
+~~~
+https://github.com/CVC97/Physics-Education-Animations
+~~~
 
-<!-- Animationen zum Vorkurs "Mathematische Methoden der Physik" 2023. Zeit- und Themenplan mit jeweiliger Animation. 
-
-| Tag | Thema | Animation(en) |
-| -------- | -------: | -------: |
-| Dienstag, 03.10. | Größen, Funktionen einer Veränderlicher | Einleitungsaimation (?)
-| Mittwoch, 04.10. | Polynome |
-| Donnerstag, 05.10. | Differentialrechnung, Potenzreihen | Differenzquotient, Taylor-Entwicklung
-| Freitag, 06.10. | Integralrechnung, Techniken | Riemannsumme
-| -------- | ------- | ------- |
-| Montag, 09.10. | Vektorrechnung, Funktionen mehrerer Veränderlicher | Partielle Ableitungen
-| Dienstag, 10.10. | Koordinatensysteme | (Trajektorie), Polarkoordinaten, Parametrisierung
-| Mittwoch, 11.10. | Differentialoperatoren, Wegintegrale | Linienintegral 
-| Donenerstag, 12.10. | Oberflächen- Volumenintegrale / komplexe Zahlen | (Trägheitsmoment), Euler-Identität
-| Freitag, 13.10. | Gewöhnliche DGL | DEQ: Harmonic Oscillator -->
-
-# Vorkurs, Rechenmethoden, Experimentalphysik I
+### Vorkurs, Rechenmethoden, Experimentalphysik I
 
 <details>
   <summary>Video: Differenzquotient </summary>
@@ -179,9 +167,7 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 </details>
 
 
----
-
-# Experimentalphysik II
+### Experimentalphysik II - Elektromagnetismum
 
 <details>
   <summary>Video: 1. Maxwell-Equation</summary>
@@ -208,9 +194,16 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 - *Maxwell-Verschiebungsstrom*
 - *Nebelkammer*
 
----
+--- 
 
-# Theoretical Physics
+# Scientific Computing
+
+This repository has a strong focus on Scientific Computing, the problems are implemented in ``C``/``C++`` and then subsequently visualized with ``manim`` in ``python``. The animations are designed 
+minimalistically and mainly to show physical in a visually pleasing way.
+~~~
+https://github.com/CVC97/Physics-Simulations
+~~~
+
 
 ### Classical Mechanics
 
@@ -220,7 +213,6 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 		<video controls width="90%" src="index_media/double_pendulum_scene.mp4" loop="true"></video>
 	</div>
 </details>
-
 
 <details>
   <summary>Video: Double Pendulum including phase space </summary>
@@ -236,12 +228,6 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 		<video controls width="90%" src="index_media/spherical_pendulum_scene.mp4" loop="true"></video>
 	</div>
 </details>
-
---- 
-
-# Scientific Computing
-
-### Ordinary Differential Equations
 
 <details>
   <summary>Video: Coupled Pendulums</summary>
@@ -272,7 +258,7 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 </details>
 
 
-<!-- ## Wärmeleitungsgleichung -->
+
 ### Partial Differential Equations
 
 <details>
@@ -282,15 +268,13 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 	</div>
 </details>
 
-
-<!-- ## 1D Wellengleichung -->
-
 <details>
   <summary>Video: 1D-Wave-Equation</summary>
 	<div>
 		<video controls width="90%" src="index_media/tsunami_scene.mp4" loop="true"></video>
 	</div>
 </details>
+
 
 ### Stochastic Methods
 
@@ -309,3 +293,25 @@ Frontpage einiger Animationen des [Repositories](https://github.com/CVC97/Physic
 </details>
 
 <!-- <div>Logo erstellt mit <a href="https://www.designevo.com/de/" title="Kostenloser Online-Logo-Editor">DesignEvo</a></div> -->
+
+---
+
+# Interactive Simulations
+
+Feel free to visit my ``HTML``/``JavaScript`` simulations and enjoy the interactive nature of these websites in the context of phyiscal simulations!
+
+### Simulating Winds
+
+Simulate an air mass under the influence of **pressure gradient force $\vec{F}_\mathrm{Grad}$**, **coriolis force $\vec{F}_\mathrm{Cor}$**, and **friction force $\vec{F}_\mathrm{Fr}$** and learn 
+why wind circulates clockwise around regions of high pressure and counter-clockwise around regions of low pressure in the northern (or southern, I have no idea) hemisphere.
+~~~
+https://cvc97.github.io/Wind-Simulation/
+~~~
+
+### Physics of a Cat
+
+As described in the paper https://arxiv.org/pdf/2409.05400 from Anxo Biasi, the behaviour of a cat in the presence of a human can be described physically by the 
+langevin equation $m\ddot{x}=-V'_\mathrm{cat}(x)-\epsilon\dot{x}+\sigma\xi(t)$. Adjust the cat right to your needs and track its behaviour in real-time!
+~~~
+https://cvc97.github.io/Cat-Behaviour/
+~~~
