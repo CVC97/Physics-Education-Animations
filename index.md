@@ -68,7 +68,7 @@
 
 > The main content of this frontpage are the ``manim`` animations for educational purposes. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school and 
 > university.
-
+>
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
 
 
@@ -201,7 +201,7 @@
 
 > This repository has a strong focus on Scientific Computing, the problems are implemented in ``C``/``C++`` and then subsequently visualized with ``manim`` in ``python``. The animations are designed 
 > minimalistically and mainly to show physical in a visually pleasing way.
-
+>
 > [https://github.com/CVC97/Physics-Simulations](https://github.com/CVC97/Physics-Simulations)
 
 
@@ -304,7 +304,7 @@
 
 > Simulate an air mass under the influence of **pressure gradient force**, **coriolis force**, and **friction force** and learn 
 > why wind circulates clockwise around regions of high pressure and counter-clockwise around regions of low pressure in the northern (or southern, I have no idea) hemisphere.
-
+>
 > [https://cvc97.github.io/Wind-Simulation/](https://cvc97.github.io/Wind-Simulation/)
 
 
@@ -312,5 +312,5 @@
 
 > As described in the paper https://arxiv.org/pdf/2409.05400 from Anxo Biasi, the behaviour of a cat in the presence of a human can be described physically by a 
 > **langevin equation**. Adjust the cat right to your needs and track its behaviour in real-time!
-
+>
 > [https://cvc97.github.io/Cat-Behaviour/](https://cvc97.github.io/Cat-Behaviour/)
