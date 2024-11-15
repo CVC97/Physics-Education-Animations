@@ -185,7 +185,7 @@ The main content of this frontpage are the ``manim`` animations for educational 
 
 ---
 
-### *to-be-done*
+<!-- ### *to-be-done*
 
 - *Perle auf rotierendem Drahtring*
 - *Zwangskraft: kleine Kugel rollt große herunter*
@@ -194,7 +194,7 @@ The main content of this frontpage are the ``manim`` animations for educational 
 - *Maxwell-Verschiebungsstrom*
 - *Nebelkammer*
 
---- 
+---  -->
 
 # Scientific Computing
 
