@@ -1,7 +1,7 @@
 <link rel="icon" href="index_media/SnowLeopard_icon_trans.ico" />
 
 
-> Frontpage of some of ``manim`` animations  across several topics, mostly for educational purposes.
+> Frontpage of some of ``manim`` animations across several topics, mostly for educational purposes.
 
 ---
 
@@ -66,8 +66,8 @@
 
 # Education Animations
 
-> The main content of this frontpage are the ``manim`` animations for educational purposes. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school and 
-> university.
+> The main content of this frontpage are the ``manim`` animations are the education animations. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school 
+> and university. 
 >
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
 
@@ -199,8 +199,8 @@
 
 # Scientific Computing
 
-> This repository has a strong focus on Scientific Computing, the problems are implemented in ``C``/``C++`` and then subsequently visualized with ``manim`` in ``python``. The animations are designed 
-> minimalistically and mainly to show physical in a visually pleasing way.
+> The following repository has a strong focus on Scientific Computing, the problems are implemented in ``C``/``C++`` and then subsequently visualized with ``manim`` in ``python``. The animations are designed 
+> minimalistically and attempt to show physical problems in a visually pleasing way.
 >
 > [https://github.com/CVC97/Physics-Simulations](https://github.com/CVC97/Physics-Simulations)
 
@@ -310,7 +310,7 @@
 
 ### Physics of a Cat
 
-> As described in the paper https://arxiv.org/pdf/2409.05400 from Anxo Biasi, the behaviour of a cat in the presence of a human can be described physically by a 
-> **langevin equation**. Adjust the cat right to your needs and track its behaviour in real-time!
+> As described in the [paper](https://arxiv.org/pdf/2409.05400) from Anxo Biasi, the behaviour of a cat in the presence of a human can be described physically by a 
+> **langevin equation**. Perform its numerical integration and adjust the cat right to your needs while tracking its behaviour in real-time!
 >
 > [https://cvc97.github.io/Cat-Behaviour/](https://cvc97.github.io/Cat-Behaviour/)
