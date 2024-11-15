@@ -302,7 +302,7 @@ Feel free to visit my ``HTML``/``JavaScript`` simulations and enjoy the interact
 
 ### Simulating Winds
 
-Simulate an air mass under the influence of **pressure gradient force $\vec{F}_\mathrm{Grad}$**, **coriolis force $\vec{F}_\mathrm{Cor}$**, and **friction force $\vec{F}_\mathrm{Fr}$** and learn 
+Simulate an air mass under the influence of **pressure gradient force**, **coriolis force**, and **friction force** and learn 
 why wind circulates clockwise around regions of high pressure and counter-clockwise around regions of low pressure in the northern (or southern, I have no idea) hemisphere.
 ~~~
 https://cvc97.github.io/Wind-Simulation/
