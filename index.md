@@ -2,9 +2,11 @@
 
 
 > Frontpage of some of ``manim`` animations across several topics, mostly for educational purposes.
+> The first block of videos contains animations not clearly assigned to any specific physics lecture.
+>
+> **Authors Choice:** If you only have time for one single video (and like cats), go on and watch the 2nd one about acustic signal transmission via fourier analysis!
 
 ---
-
 
 <details>
   <summary>Video: Entsteheung einer stehenden (Schall)welle</summary>
@@ -13,14 +15,12 @@
 	</div>
 </details>
 
-
 <details>
   <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
 	<div>
 		<video controls width="90%" src="index_media/snow_leopard_CVC_2x_cut.mp4" loop="true"></video>
 	</div>
 </details>
-
 
 <details>
   <summary>Video: Trapped Ion Mobility Spectrometry</summary>
@@ -29,14 +29,12 @@
 	</div>
 </details>
 
-
 <details>
   <summary>Video: Luftmasse unter Einfluss von Druckgradient und Corioliskraft</summary>
 	<div>
 		<video controls width="90%" src="index_media/coriolis_air_F2.mp4" loop="true"></video>
 	</div>
 </details>
-
 
 <details>
   <summary>Video: Bewegungsgleichung einer Katze im Potential eines Menschen</summary>
@@ -45,14 +43,12 @@
 	</div>
 </details>
 
-
 <details>
   <summary>Video: Brownian Motion of three Particles with real-time Calculation of the Boltzmann constant</summary>
 	<div>
 		<video controls width="90%" src="index_media/Brownian_Motion.mp4" loop="true"></video>
 	</div>
 </details>
-
 
 <details>
   <summary>Video: Brownian Motion of three Particles in a Confining Potential with plotted MSD</summary>
@@ -61,13 +57,13 @@
 	</div>
 </details>
 
-
 ---
 
 # Education Animations
 
-> The main content of this frontpage are the ``manim`` animations are the education animations. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school 
-> and university. 
+<!-- possibly sounds OTT, possibly fix this -->
+> The main content of this frontpage are the education animations created with ``manim``. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school 
+> and university. They are part of lectures at the University of Göttingen where they help physics students to enhance their learning experience.
 >
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
 
