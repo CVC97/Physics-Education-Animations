@@ -2,7 +2,7 @@
 
 
 > Frontpage of some of ``manim`` animations across several topics, mostly for educational purposes.
-> The first block of videos contains animations not clearly assigned to any specific physics lecture.
+> The first block of videos contains animations not clearly assigned to any specific physics lecture and gives a first peek at the libraries capabilities in various settings.
 >
 > **Authors Choice:** If you only have time for one single video (and like cats), go on and watch the 2nd one about acustic signal transmission via fourier analysis!
 
@@ -217,11 +217,17 @@
 	</div>
 </details>
 
-
 <details>
   <summary>Video: Spherical Pendulum of variable length with most dubious phase space ever created </summary>
 	<div>
 		<video controls width="90%" src="index_media/spherical_pendulum_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Driven and Damped Pendulum including polar phase space </summary>
+	<div>
+		<video controls width="90%" src="index_media/driven_damped_pendulum_2_1_scene.mp4" loop="true"></video>
 	</div>
 </details>
 
