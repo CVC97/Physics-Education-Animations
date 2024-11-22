@@ -2,17 +2,18 @@ from manim import *
 
 
 # main color of the animation (opposite of the background color)
-main_color = BLACK
-inverted_main_color = WHITE
-red_color = PURE_RED
-blue_color = PURE_BLUE
-grey_color = DARK_GREY
+# main_color = BLACK
+# inverted_main_color = WHITE
+# red_color = PURE_RED
+# blue_color = PURE_BLUE
+# grey_color = DARK_GREY
 
-# main_color = WHITE
-# inverted_main_color = BLACK
-# red_color = RED
-# blue_color = BLUE
-# grey_color = GREY
+# DARK MODE
+main_color = WHITE
+inverted_main_color = BLACK
+red_color = RED
+blue_color = BLUE
+grey_color = GREY
 
 
 # global parameters
