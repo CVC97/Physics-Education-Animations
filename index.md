@@ -282,6 +282,13 @@
 ### Chaotic Systems
 
 <details>
+  <summary>Video: Logistic Map: Time and Frequency Domain</summary>
+	<div>
+		<video controls width="90%" src="index_media/nonlinear_map_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Logistic Map: Bifurcation Diagram</summary>
 	<div>
 		<video controls width="90%" src="index_media/bifurcation_scene.mp4" loop="true"></video>
