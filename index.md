@@ -278,6 +278,17 @@
 </details>
 
 
+
+### Chaotic Systems
+
+<details>
+  <summary>Video: Logistic Map: Bifurcation Diagram</summary>
+	<div>
+		<video controls width="90%" src="index_media/bifurcation_scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+
 ### Stochastic Methods
 
 <details>
