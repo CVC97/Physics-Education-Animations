@@ -30,6 +30,13 @@
 </details>
 
 <details>
+  <summary>Video: Funktionsweise eines Galvanometers</summary>
+	<div>
+		<video controls width="90%" src="index_media/galvanometre_simple.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Luftmasse unter Einfluss von Druckgradient und Corioliskraft</summary>
 	<div>
 		<video controls width="90%" src="index_media/coriolis_air_F2.mp4" loop="true"></video>
@@ -62,7 +69,7 @@
 # Education Animations
 
 <!-- possibly sounds OTT, possibly fix this -->
-> The main content of this frontpage are the education animations created with ``manim``. These animations focus on a visual understanding of mathematical and physical concepts at the edge between school 
+> The main content of this frontpage are the education animations created with ``manim``. These animations are developed in the department [Physik und ihre Didaktik](https://www.uni-goettingen.de/de/110922.html) at Göttingen University and focus on a visual understanding of mathematical and physical concepts at the edge between school 
 > and university. They are part of lectures at the University of Göttingen where they help physics students to enhance their learning experience.
 >
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
