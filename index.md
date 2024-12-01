@@ -69,8 +69,8 @@
 # Education Animations
 
 <!-- possibly sounds OTT, possibly fix this -->
-> The main content of this frontpage are the education animations created with ``manim``. These animations are developed in the department [Physik und ihre Didaktik](https://www.uni-goettingen.de/de/110922.html) at Göttingen University and focus on a visual understanding of mathematical and physical concepts at the edge between school 
-> and university. They are part of lectures at the University of Göttingen where they help physics students to enhance their learning experience.
+> The main content of this frontpage are the education animations created with ``manim``. These animations are developed in the department [Physik und ihre Didaktik](https://www.uni-goettingen.de/de/110922.html)  at the University of Göttingen and focus on a visual understanding of mathematical and physical concepts at the edge between school 
+> and university. They are part of lectures where they help physics students to enhance their learning experience.
 >
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
 
