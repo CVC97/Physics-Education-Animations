@@ -25,7 +25,7 @@
 <details>
   <summary>Video: Cheetah Line Art as a Complex Fourier Drawing</summary>
 	<div>
-		<video controls width="90%" src="index_media/cheetah_5000_1100_reduced.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/cheetah_5000_1100_compressed.mp4" loop="true"></video>
 	</div>
 </details>
 
