@@ -82,7 +82,7 @@
 > [https://github.com/CVC97/Physics-Education-Animations](https://github.com/CVC97/Physics-Education-Animations)
 
 
-### Vorkurs, Rechenmethoden, Experimentalphysik I
+### Vorkurs: Mathematische Methoden der Physik
 
 <details>
   <summary>Video: Differenzquotient </summary>
@@ -141,13 +141,6 @@
 </details>
 
 <details>
-  <summary>Video: Trägheitsmoment</summary>
-	<div>
-		<video controls width="90%" src="index_media/MOI_4K.mp4" loop="true"></video>
-	</div>
-</details>
-
-<details>
   <summary>Video: Euler-Identität</summary>
 	<div>
 		<video controls width="90%" src="index_media/euler_identity_index.mp4" loop="true"></video>
@@ -174,6 +167,39 @@
   <summary>Video + Audio (English): Harmonic Oscillator</summary>
 	<div>
 		<video controls width="90%" src="index_media/harmonic_oscillator_ENG_F3.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+### Experimentalphysik I - Mechanik und Thermodynamik
+
+
+<details>
+  <summary>Video: Ballabschuss von einem rollenden Wagen auf einer schiefen Ebene</summary>
+	<div>
+		<video controls width="90%" src="index_media/inclined_plane_FULL_1.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+<details>
+  <summary>Video: Ellipsenbahn eines Planeten im Effektiven Potential eines Fixsterns</summary>
+	<div>
+		<video controls width="90%" src="index_media/effective_potential_index.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Corioliskraft auf einer Rotierenden Scheibe</summary>
+	<div>
+		<video controls width="90%" src="index_media/coriolis_simple_index.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Trägheitsmoment</summary>
+	<div>
+		<video controls width="90%" src="index_media/MOI_4K.mp4" loop="true"></video>
 	</div>
 </details>
 
