@@ -23,6 +23,13 @@
 </details>
 
 <details>
+  <summary>Video: Cheetah Line Art as a Complex Fourier Drawing</summary>
+	<div>
+		<video controls width="90%" src="index_media/cheetah_5000_1100_reduced.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Trapped Ion Mobility Spectrometry</summary>
 	<div>
 		<video controls width="90%" src="index_media/TIMS.mp4" loop="true"></video>
