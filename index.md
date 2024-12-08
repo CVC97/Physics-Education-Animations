@@ -177,7 +177,7 @@
 <details>
   <summary>Video: Ballabschuss von einem rollenden Wagen auf einer schiefen Ebene</summary>
 	<div>
-		<video controls width="90%" src="index_media/inclined_plane_FULL_1.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/inclined_plane_FULL_2.mp4" loop="true"></video>
 	</div>
 </details>
 
