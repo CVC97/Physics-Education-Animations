@@ -44,6 +44,13 @@
 </details>
 
 <details>
+  <summary>Video: Magnus-Effekt</summary>
+	<div>
+		<video controls width="90%" src="index_media/magnus_F4_sharp.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Luftmasse unter Einfluss von Druckgradient und Corioliskraft</summary>
 	<div>
 		<video controls width="90%" src="index_media/coriolis_air_F2.mp4" loop="true"></video>
