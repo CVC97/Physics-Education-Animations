@@ -44,6 +44,21 @@
 </details>
 
 <details>
+  <summary>Video: Interferenz zweier Schallquellen</summary>
+	<div>
+		<video controls width="90%" src="index_media/ndw_interference_hybrid_F5.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Laminarer Fluss vs. Hörsaaleingang</summary>
+	<div>
+		<video controls width="90%" src="index_media/ndw_bernoulli_F1.mp4" loop="true"></video>
+	</div>
+</details>
+
+
+<details>
   <summary>Video: Magnus-Effekt</summary>
 	<div>
 		<video controls width="90%" src="index_media/magnus_F4_sharp.mp4" loop="true"></video>
