@@ -50,12 +50,12 @@
 	</div>
 </details>
 
-<details>
+<!-- <details>
   <summary>Video: Laminarer Fluss vs. Hörsaaleingang</summary>
 	<div>
 		<video controls width="90%" src="index_media/ndw_bernoulli_F1.mp4" loop="true"></video>
 	</div>
-</details>
+</details> -->
 
 
 <details>
