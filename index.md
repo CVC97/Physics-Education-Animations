@@ -226,7 +226,7 @@
 </details>
 
 
-### Experimentalphysik II - Elektromagnetismum
+### Experimentalphysik II - Elektromagnetismus
 
 <details>
   <summary>Video: 1. Maxwell-Equation</summary>
@@ -241,6 +241,9 @@
 		<video controls width="90%" src="index_media/dipole_radiation_length_func.mp4" loop="true"></video>
 	</div>
 </details>
+
+
+### Experimentalphysik III - Wellen und Optik
 
 ---
 
