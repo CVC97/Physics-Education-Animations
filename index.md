@@ -245,6 +245,13 @@
 
 ### Experimentalphysik III - Wellen und Optik
 
+<details>
+  <summary>Video: Phasen- und Gruppengeschwindigkeit</summary>
+	<div>
+		<video controls width="90%" src="index_media/phase_group_Scene.mp4" loop="true"></video>
+	</div>
+</details>
+
 ---
 
 <!-- ### *to-be-done*
