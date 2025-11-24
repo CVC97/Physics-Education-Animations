@@ -256,7 +256,7 @@
 <details>
   <summary>Video: Dispersion eines Gaußschen Wellenpaketes</summary>
 	<div>
-		<video controls width="90%" src="index_media/dispersion_gauss_real_fourier_space_Scene.mp4" loop="true"></video>
+		<video controls width="90%" src="index_media/dispersion_gauss_rf_Scene.mp4" loop="true"></video>
 	</div>
 </details>
 
