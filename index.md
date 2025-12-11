@@ -212,10 +212,34 @@
 </details>
 
 <details>
-  <summary>Video: Corioliskraft auf einer Rotierenden Scheibe</summary>
-	<div>
+  <summary>Corioliskraft auf einer Rotierenden Scheibe</summary>
+	<!-- <div>
 		<video controls width="90%" src="index_media/coriolis_simple_index.mp4" loop="true"></video>
-	</div>
+	</div> -->
+	<details>
+	<summary>Video: Ruhender Punkt</summary>
+		<div>
+			<video controls width="90%" src="index_media/cs1_static_Scene.mp4" loop="true"></video>
+		</div>
+	</details>
+	<details>
+	<summary>Video: Geradlinige Bewegung eines Punktes</summary>
+		<div>
+			<video controls width="90%" src="index_media/cs2_translation_Scene.mp4" loop="true"></video>
+		</div>
+	</details>
+	<details>
+	<summary>Video: Oszillierender Punkt</summary>
+		<div>
+			<video controls width="90%" src="index_media/cs3_oscillation_Scene.mp4" loop="true"></video>
+		</div>
+	</details>
+	<details>
+	<summary>Video: Rotierender Punkt</summary>
+		<div>
+			<video controls width="90%" src="index_media/cs4_rotation_Scene.mp4" loop="true"></video>
+		</div>
+	</details>
 </details>
 
 <details>
