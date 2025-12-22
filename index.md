@@ -353,6 +353,13 @@
 </details>
 
 <details>
+  <summary>Video: Rotating Pendulums</summary>
+	<div>
+		<video controls width="90%" src="index_media/rotating_pendulum_scene_long_friction.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Oscillation Sensor</summary>
 	<div>
 		<video controls width="90%" src="index_media/oscillation_sensor_scene.mp4" loop="true"></video>
