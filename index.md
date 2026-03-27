@@ -262,9 +262,16 @@
 ### Experimentalphysik II - Elektromagnetismus
 
 <details>
-  <summary>Video: 1. Maxwell-Equation</summary>
+  <summary>Video: 1. Maxwell-Equation (Gauß'sches Gesetz)</summary>
 	<div>
 		<video controls width="90%" src="index_media/gauss_law_F1.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: 4. Maxwell-Equation (Ampère'sches Gesetz)</summary>
+	<div>
+		<video controls width="90%" src="index_media/ampere_law.mp4" loop="true"></video>
 	</div>
 </details>
 
