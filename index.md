@@ -262,6 +262,13 @@
 ### Experimentalphysik II - Elektromagnetismus
 
 <details>
+  <summary>Video: Elektrisches Feld einer unendlich ausgedehnten Platte</summary>
+	<div>
+		<video controls width="90%" src="index_media/charged_plane_Scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: 1. Maxwell-Equation (Gauß'sches Gesetz)</summary>
 	<div>
 		<video controls width="90%" src="index_media/gauss_law_F1.mp4" loop="true"></video>
