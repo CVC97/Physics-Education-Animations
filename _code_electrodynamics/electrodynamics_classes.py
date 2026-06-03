@@ -2,18 +2,18 @@ from manim import *
 
 
 # main color of the animation (opposite of the background color)
-# main_color = BLACK
-# inverted_main_color = WHITE
-# red_color = PURE_RED
-# blue_color = PURE_BLUE
-# grey_color = DARK_GREY
+main_color = BLACK
+inverted_main_color = WHITE
+red_color = PURE_RED
+blue_color = PURE_BLUE
+grey_color = DARK_GREY
 
 # DARK MODE
-main_color = WHITE
-inverted_main_color = BLACK
-red_color = RED
-blue_color = BLUE
-grey_color = GREY
+# main_color = WHITE
+# inverted_main_color = BLACK
+# red_color = RED
+# blue_color = BLUE
+# grey_color = GREY
 
 
 # global parameters
@@ -35,7 +35,7 @@ class ElectricField(Mobject):
         self.npla = NumberPlane(
             x_range = x_range, y_range = y_range, x_length = x_length, y_length = y_length,
             x_axis_config = {"stroke_opacity": 0.215, "stroke_color": BLACK}, y_axis_config = {"stroke_opacity": 0.125, "stroke_color": BLACK}, background_line_style = {"stroke_opacity": 0.125}).move_to(center)
-        self.add(self.npla)
+        # self.add(self.npla)
 
 
     # returns list of point charge mobjects
@@ -117,7 +117,7 @@ class MagneticField(Mobject):
 		self.npla = NumberPlane(
 			x_range = x_range, y_range = y_range, x_length = x_length, y_length = y_length,
 			x_axis_config = {"stroke_opacity": 0.215, "stroke_color": BLACK}, y_axis_config = {"stroke_opacity": 0.125, "stroke_color": BLACK}, background_line_style = {"stroke_opacity": 0.125}).move_to(center)
-		self.add(self.npla)
+		# self.add(self.npla)
 
 
 	# returns list of conductor mobjects
