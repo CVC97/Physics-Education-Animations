@@ -94,6 +94,23 @@
 </details>
 
 <details>
+  <summary>Spezielle Relativitätstheorie</summary>
+	<!-- <div>
+		<video controls width="90%" src="index_media/coriolis_simple_index.mp4" loop="true"></video>
+	</div> -->
+	<div style="margin-left: 15px;">
+		<details>
+		<summary>Video: Zeitdilatation</summary>
+			<div>
+				<video controls width="90%" src="index_media/srt_spaceship.mp4" loop="true"></video>
+			</div>
+		</details>
+	</div>
+</details>
+
+
+
+<details>
   <summary>Video: Brownian Motion of three Particles with real-time Calculation of the Boltzmann constant</summary>
 	<div>
 		<video controls width="90%" src="index_media/Brownian_Motion.mp4" loop="true"></video>
