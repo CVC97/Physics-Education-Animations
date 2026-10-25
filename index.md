@@ -515,7 +515,7 @@
 INTERAPT --- interaktive und adaptive Physikpraktika
 
 > The aim of this research project is to improve the students preparation for the lab course expanding the *Experimentalphysik I - Mechanik und Thermodynamik* lecure. 
-> For that purpose interactive, adaptive scripts, simulations are provided. 
+> For that purpose interactive, adaptive scripts, as well as simulations are provided. 
 
 ### Der Pohlsche Resonator
 
