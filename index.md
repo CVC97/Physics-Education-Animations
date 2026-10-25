@@ -512,7 +512,7 @@
 
 ---
 
-INTERAPT --- interaktive und adaptive Physikpraktika
+# INTERAPT --- interaktive und adaptive Physikpraktika
 
 > The aim of this research project is to improve the students preparation for the lab course expanding the *Experimentalphysik I - Mechanik und Thermodynamik* lecure. 
 > For that purpose interactive, adaptive scripts, as well as simulations are provided. 
@@ -520,18 +520,18 @@ INTERAPT --- interaktive und adaptive Physikpraktika
 ### Der Pohlsche Resonator
 
 > For this experiment, an interactive, web-based learning module was vibe-coded using Claude Code. 
-> It is a full-stack Angular application with a PHP backend, as well as a MySQL database for progress and performance tracking.
+> It is a **full-stack Angular application with a PHP backend, and a MySQL database** for progress and performance tracking.
 > Its newest build can normally be found, used (and tested) on a GWDG virtual server. I am gratefull for any feedback, do not hesitate to contact me regarding any issues! 
 > (Claude will be up to the task)
-
-[https://interapt.uni-goettingen.de/pohl/](https://interapt.uni-goettingen.de/pohl/)
+>
+> [https://interapt.uni-goettingen.de/pohl/](https://interapt.uni-goettingen.de/pohl/)
 
 
 ### Kreiselpräzession
 
 > Eventually this experiment shall have its own leaning module; however, it will certainly be less rigorous than the Pohl one. 
-> Its star and center though will be interactive, 3-dimensional simulation of a gyroscope, 
+> Its star and center though will be **interactive, 3-dimensional simulation of a gyroscope**, 
 > build with the games engine Unity, and controlled by C# scripts. 
-> It is held in a dark noir-ish style, with one of the vector arrows coulored in the blood of the yellow bastard from Sin City.
-
-[https://cvc97.github.io/Ilias-Precession-Module-Simulation/](https://cvc97.github.io/Ilias-Precession-Module-Simulation/)
+> It is held in a dark, noir-ish style, with one of the vector arrows coloured in the blood of the yellow bastard from Sin City.
+>
+> [https://cvc97.github.io/Ilias-Precession-Module-Simulation/](https://cvc97.github.io/Ilias-Precession-Module-Simulation/)
