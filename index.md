@@ -509,6 +509,12 @@
 >
 > [https://cvc97.github.io/Cat-Behaviour/](https://cvc97.github.io/Cat-Behaviour/)
 
+### Gyroscope Precession
+
+> This 3-dimensional simulation of a precessing gyroscope was build using the **games engine Unity, controlled by C# scripts**.
+> It is held in a dark, noir-ish style, with one of the vector arrows coloured in the blood of the yellow bastard from Sin City.
+>
+> [https://cvc97.github.io/Ilias-Precession-Module-Simulation/](https://cvc97.github.io/Ilias-Precession-Module-Simulation/)
 
 ---
 
@@ -529,9 +535,8 @@
 
 ### Kreiselpräzession
 
-> Eventually this experiment shall have its own leaning module; however, it will certainly be less rigorous than the Pohl one. 
-> Its star and center though will be **interactive, 3-dimensional simulation of a gyroscope**, 
+> This (still unfinished and totally vibe-coded) leaning module is far less extensive than the Pohl one and is centered around the above 
+> **interactive, 3-dimensional simulation of a gyroscope**, 
 > build with the games engine Unity, and controlled by C# scripts. 
-> It is held in a dark, noir-ish style, with one of the vector arrows coloured in the blood of the yellow bastard from Sin City.
 >
-> [https://cvc97.github.io/Ilias-Precession-Module-Simulation/](https://cvc97.github.io/Ilias-Precession-Module-Simulation/)
+> [https://interapt.uni-goettingen.de/precession/](https://interapt.uni-goettingen.de/precession/)
