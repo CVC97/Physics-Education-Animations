@@ -16,7 +16,7 @@
 </details>
 
 <details>
-  <summary>Video: Akustische Bildübermittlung mittels Fourieranalyse</summary>
+  <summary><b>Video: Akustische Bildübermittlung mittels Fourieranalyse</b></summary>
 	<div>
 		<video controls width="90%" src="index_media/snow_leopard_CVC_2x_cut.mp4" loop="true"></video>
 	</div>
@@ -59,13 +59,6 @@
 
 
 <details>
-  <summary>Video: Orbital Plane</summary>
-	<div>
-		<video controls width="90%" src="index_media/orbital_plane.mp4" loop="true"></video>
-	</div>
-</details>
-
-<details>
   <summary>Video: Magnus-Effekt</summary>
 	<div>
 		<video controls width="90%" src="index_media/magnus_F4_sharp.mp4" loop="true"></video>
@@ -105,22 +98,6 @@
 				<video controls width="90%" src="index_media/srt_spaceship.mp4" loop="true"></video>
 			</div>
 		</details>
-	</div>
-</details>
-
-
-
-<details>
-  <summary>Video: Brownian Motion of three Particles with real-time Calculation of the Boltzmann constant</summary>
-	<div>
-		<video controls width="90%" src="index_media/Brownian_Motion.mp4" loop="true"></video>
-	</div>
-</details>
-
-<details>
-  <summary>Video: Brownian Motion of three Particles in a Confining Potential with plotted MSD</summary>
-	<div>
-		<video controls width="90%" src="index_media/Brownian_Motion_Potential.mp4" loop="true"></video>
 	</div>
 </details>
 
@@ -349,6 +326,33 @@
 
 ---
 
+### Introduction to Biophysics
+
+<details>
+  <summary>Video: Brownian Motion of three Particles with real-time Calculation of the Boltzmann constant</summary>
+	<div>
+		<video controls width="90%" src="index_media/Brownian_Motion.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
+  <summary>Video: Brownian Motion of three Particles in a Confining Potential with plotted MSD</summary>
+	<div>
+		<video controls width="90%" src="index_media/Brownian_Motion_Potential.mp4" loop="true"></video>
+	</div>
+</details>
+
+---
+
+### Introduction to Astrophysics
+
+<details>
+  <summary>Video: Orbital Plane</summary>
+	<div>
+		<video controls width="90%" src="index_media/orbital_plane.mp4" loop="true"></video>
+	</div>
+</details>
+
 <!-- ### *to-be-done*
 
 - *Perle auf rotierendem Drahtring*
@@ -359,6 +363,8 @@
 - *Nebelkammer*
 
 ---  -->
+
+---
 
 # Scientific Computing
 
@@ -511,7 +517,7 @@
 
 ### Gyroscope Precession
 
-> This 3-dimensional simulation of a precessing gyroscope was build using the **games engine Unity, controlled by C# scripts**.
+> This 3-dimensional simulation of a precessing gyroscope was build using the **games engine ``Unity``, controlled by ``C#`` scripts**.
 > It is held in a dark, noir-ish style, with one of the vector arrows coloured in the blood of the yellow bastard from Sin City.
 >
 > [https://cvc97.github.io/Ilias-Precession-Module-Simulation/](https://cvc97.github.io/Ilias-Precession-Module-Simulation/)
@@ -535,8 +541,8 @@
 
 ### Kreiselpräzession
 
-> This (still unfinished and totally vibe-coded) leaning module is far less extensive than the Pohl one and is centered around the above 
+> This (totally vibe-coded) leaning module is not as extensive than the Pohl one and is supposed to be centered around the above 
 > **interactive, 3-dimensional simulation of a gyroscope**, 
-> build with the games engine Unity, and controlled by C# scripts. 
+> build with the games engine Unity, and controlled by C# scripts (also vibe-coded). 
 >
 > [https://interapt.uni-goettingen.de/precession/](https://interapt.uni-goettingen.de/precession/)
