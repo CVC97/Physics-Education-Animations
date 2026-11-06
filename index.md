@@ -342,7 +342,6 @@
 	</div>
 </details>
 
----
 
 ### Introduction to Astrophysics
 
