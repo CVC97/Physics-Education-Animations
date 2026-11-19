@@ -99,6 +99,14 @@
 			</div>
 		</details>
 	</div>
+	<div style="margin-left: 15px;">
+		<details>
+		<summary>Video: Längenkontraktion</summary>
+			<div>
+				<video controls width="90%" src="index_media/srt_contraction.mp4" loop="true"></video>
+			</div>
+		</details>
+	</div>
 </details>
 
 ---
