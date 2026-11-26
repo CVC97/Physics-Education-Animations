@@ -213,11 +213,29 @@
 
 
 <details>
-  <summary>Video: Elastischer Stoß mit reduzierter Masse</summary>
-	<div>
-		<video controls width="90%" src="index_media/comf_Scene.mp4" loop="true"></video>
+  <summary>Elastischer Stoß mit reduzierter Masse</summary>
+	<!-- <div>
+		<video controls width="90%" src="index_media/coriolis_simple_index.mp4" loop="true"></video>
+	</div> -->
+	<div style="margin-left: 15px;">
+		<details>
+		<summary>Video: Laborsystem</summary>
+			<div>
+				<video controls width="90%" src="index_media/comf_lab_Scene.mp4" loop="true"></video>
+			</div>
+		</details>
+	</div>
+	<div style="margin-left: 15px;">
+		<details>
+		<summary>Video: Schwerpunktsystem</summary>
+			<div>
+				<video controls width="90%" src="index_media/comf_com_Scene.mp4" loop="true"></video>
+			</div>
+		</details>
 	</div>
 </details>
+
+
 
 <details>
   <summary>Video: Ballabschuss von einem rollenden Wagen auf einer schiefen Ebene</summary>
