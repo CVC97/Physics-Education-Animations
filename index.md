@@ -213,6 +213,13 @@
 
 
 <details>
+  <summary>Video: Elastischer Stoß mit reduzierter Masse</summary>
+	<div>
+		<video controls width="90%" src="index_media/comf_Scene.mp4" loop="true"></video>
+	</div>
+</details>
+
+<details>
   <summary>Video: Ballabschuss von einem rollenden Wagen auf einer schiefen Ebene</summary>
 	<div>
 		<video controls width="90%" src="index_media/inclined_plane_FULL_2.mp4" loop="true"></video>
